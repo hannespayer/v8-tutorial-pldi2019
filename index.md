@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Using the V8 JavaScript Virtual Machine as a Research Platform
 
-You can use the [editor on GitHub](https://github.com/hannespayer/v8-tutorial-pldi2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this tutorial we will give an overview over the JavaScript virtual machine V8. In particular, we will look into Javascript benchmarking with workloads and metrics, the runtime system, the parsing and compilation architecture, garbage collection, and WebAssembly. The main goal of this tutorial is to make V8 approachable for researchers, brainstorm ideas about how V8 could be more hackable, and discuss virtual machine research problems and ideas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Date:** June 22nd, 2019
 
-### Markdown
+**Time:** Morning session
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Duration:** half day
 
-```markdown
-Syntax highlighted code block
+### Organizers & Presenters
 
-# Header 1
-## Header 2
-### Header 3
+[Ulan Degenbaev, Software Engineer, Google Munich](https://ai.google/research/people/UlanDegenbaev)
 
-- Bulleted
-- List
+Ulan is a Software Engineer working on garbage collection and benchmarking of V8. Before joining Google he received a PhD in Computer Science in 2012 from Saarland University working on verification and formal specification.
 
-1. Numbered
-2. List
+[Hannes Payer, Software Engineer, Google Munich](https://ai.google/research/people/HannesPayer)
 
-**Bold** and _Italic_ and `Code` text
+Hannes is a software engineer at Google where he leads the V8 Desktop team. Prior to V8, Hannes worked on various virtual machine projects like Google's Dart virtual machine and the Maxine Java research virtual machine from Sun Labs. Hannes received a PhD from the University of Salzburg in 2012 where he was the principal investigator of the Scal project.
 
-[Link](url) and ![Image](src)
-```
+Toon Verwaest, Software Engineer, Google Munich
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Toon is a software engineer at Google working on V8 since over 6 years, where he’s the tech lead of the runtime team. He is currently focusing on improving load-time in the browser as measured by real-world benchmarks. Before joining Google he received a PhD from the University of Bern.
 
-### Jekyll Themes
+[Michael Starzinger, Software Engineer, Google Munich](https://ai.google/research/people/MichaelStarzinger)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hannespayer/v8-tutorial-pldi2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Michael Starzinger is a software engineer at Google working on the V8 team in Munich. He is currently working on V8’s WebAssembly implementation and generally interested in compiler and garbage collector development. Before joining Google in 2011, he worked on Cacao, an open-source Java virtual machine developed by the compilers and languages group at the Vienna University of Technology. He has a masters degree in Computer Science from the Vienna University of Technology.
