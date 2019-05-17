@@ -8,6 +8,32 @@ In this tutorial we will give an overview over the JavaScript virtual machine V8
 
 **Duration:** half day
 
+### Agenda
+
+1. Introduction
+  * General V8 introduction about open source, community, how to get the code and build it, documentation, design docs, etc.
+  * Current research based on V8, investment, and opportunites
+2. Runtime system
+  * Object model
+  * Type feedback and inline caches
+  * Parsing and streaming
+  * Open research problems in the runtime
+3. Compilation Pipeline
+  * TurboFan overview
+  * JavaScript focused optimizations
+  * TurboFan usage for WebAssembly 
+  * Open reserach problems in the compiler
+4. Garbage Collection
+  * Architecture Overview
+  * MMTK in V8
+  * Open research problems in garbage collection
+5. Benchmarking in V8 & Chrome
+  * Real-world benchmarking
+  * Performance traces
+  * Metrics and performance evaluation
+  * Developer tooling and inspector protocol
+  
+
 ### Organizers & Presenters
 
 [Ulan Degenbaev, Software Engineer, Google Munich](https://ai.google/research/people/UlanDegenbaev)<br>
