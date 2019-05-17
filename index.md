@@ -4,7 +4,7 @@ In this tutorial we will give an overview over the JavaScript virtual machine V8
 
 **Date:** June 22nd, 2019
 
-**Time:** Morning session
+**Time:** Afternoon session (starting at 2PM)
 
 **Duration:** half day
 
@@ -47,3 +47,5 @@ Toon is a software engineer at Google working on V8 since over 6 years, where he
 
 [Michael Starzinger, Software Engineer, Google Munich](https://ai.google/research/people/MichaelStarzinger)<br>
 Michael Starzinger is a software engineer at Google working on the V8 team in Munich. He is currently working on V8’s WebAssembly implementation and generally interested in compiler and garbage collector development. Before joining Google in 2011, he worked on Cacao, an open-source Java virtual machine developed by the compilers and languages group at the Vienna University of Technology. He has a masters degree in Computer Science from the Vienna University of Technology.
+
+TBA: more speakers
