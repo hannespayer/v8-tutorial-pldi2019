@@ -27,7 +27,7 @@ In this tutorial we will give an overview over the JavaScript virtual machine V8
   * Architecture Overview
   * Open research problems in garbage collection
 5. [MMTK in V8 research project](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-mmtk.pdf) (Steve Blackburn)
-6. Benchmarking in V8 & Chrome (Ulan Degenbaev)
+6. [Benchmarking in V8 & Chrome](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-benchmarks.pdf) (Ulan Degenbaev)
   * Real-world benchmarking
   * Performance traces
   * Metrics and performance evaluation
