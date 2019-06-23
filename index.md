@@ -1,6 +1,6 @@
-## Using the V8 JavaScript Virtual Machine as a Research Platform
+## Using the V8 as a Research Platform
 
-In this tutorial we will give an overview over the JavaScript virtual machine V8. In particular, we will look into Javascript benchmarking with workloads and metrics, the runtime system, the parsing and compilation architecture, garbage collection, and WebAssembly. The main goal of this tutorial is to make V8 approachable for researchers, brainstorm ideas about how V8 could be more hackable, and discuss virtual machine research problems and ideas.
+In this tutorial we will give an overview over the JavaScript and WebAssembly virtual machine V8. In particular, we will look into the JavaScript runtime system, the parsing and compilation architecture, garbage collection, WebAssembly and web benchmarking with workloads and metrics. The main goal of this tutorial is to make V8 approachable for researchers, brainstorm ideas about how V8 could be more hackable, and discuss virtual machine research problems and ideas.
 
 **Date:** June 22nd, 2019
 
