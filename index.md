@@ -10,24 +10,24 @@ In this tutorial we will give an overview over the JavaScript virtual machine V8
 
 ### Agenda
 
-1. Introduction
+1. [Introduction](https://github.com/hannespayer/v8-tutorial-pldi2019/blob/master/v8-intro.pdf) (Hannes Payer)
   * General V8 introduction about open source, community, how to get the code and build it, documentation, design docs, etc.
   * Current research based on V8, investment, and opportunites
-2. Runtime system
+2. Runtime system (Toon Verwaest)
   * Object model
   * Type feedback and inline caches
   * Parsing and streaming
   * Open research problems in the runtime
-3. Compilation Pipeline
+3. Compilation Pipeline (Michael Starzinger)
   * TurboFan overview
   * JavaScript focused optimizations
   * TurboFan usage for WebAssembly 
-  * Open reserach problems in the compiler
-4. Garbage Collection
+  * Open research problems in the compiler
+4. [Garbage Collection](https://github.com/hannespayer/v8-tutorial-pldi2019/blob/master/v8-gc.pdf) (Hannes Payer)
   * Architecture Overview
-  * MMTK in V8 research project
   * Open research problems in garbage collection
-5. Benchmarking in V8 & Chrome
+5. [MMTK in V8 research project](https://github.com/hannespayer/v8-tutorial-pldi2019/blob/master/v8-mmtk.pdf) (Steve Blackburn)
+6. Benchmarking in V8 & Chrome (Ulan Degenbaev)
   * Real-world benchmarking
   * Performance traces
   * Metrics and performance evaluation
