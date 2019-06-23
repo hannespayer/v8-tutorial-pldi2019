@@ -18,7 +18,7 @@ In this tutorial we will give an overview over the JavaScript virtual machine V8
   * Type feedback and inline caches
   * Parsing and streaming
   * Open research problems in the runtime
-3. Compilation Pipeline (Michael Starzinger)
+3. [Compilation Pipeline](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-compiler.pdf) (Michael Starzinger)
   * TurboFan overview
   * JavaScript focused optimizations
   * TurboFan usage for WebAssembly 
