@@ -13,18 +13,18 @@ In this tutorial we will give an overview over the JavaScript and WebAssembly vi
 1. [Introduction](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-intro.pdf) (Hannes Payer)
   * General V8 introduction about open source, community, how to get the code and build it, documentation, design docs, etc.
   * Current research based on V8, investment, and opportunites
-2. Runtime system (Toon Verwaest)
+2. [Runtime system](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-runtime.pdf) (Toon Verwaest)
   * Object model
   * Type feedback and inline caches
   * Parsing and streaming
   * Open research problems in the runtime
-3. [Compilation Pipeline](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-compiler.pdf) (Michael Starzinger)
+3. [Compilation pipeline](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-compiler.pdf) (Michael Starzinger)
   * TurboFan overview
-  * JavaScript focused optimizations
-  * TurboFan usage for WebAssembly 
+  * JavaScript-focused optimizations
+  * TurboFan usage for WebAssembly
   * Open research problems in the compiler
 4. [Garbage Collection](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-gc.pdf) (Hannes Payer)
-  * Architecture Overview
+  * Architecture overview
   * Open research problems in garbage collection
 5. [MMTK in V8 research project](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-mmtk.pdf) (Steve Blackburn)
 6. [Benchmarking in V8 & Chrome](https://hannespayer.github.io/v8-tutorial-pldi2019/v8-benchmarks.pdf) (Ulan Degenbaev)
@@ -32,7 +32,7 @@ In this tutorial we will give an overview over the JavaScript and WebAssembly vi
   * Performance traces
   * Metrics and performance evaluation
   * Developer tooling and inspector protocol
-  
+
 
 ### Organizers & Presenters
 
